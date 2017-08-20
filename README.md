@@ -1,7 +1,7 @@
 # itsummit-tools
 This repository includes all kinds of tools to hack GIS
 
-###[Main Projects]
+### [Main Projects]
 ----------
 
 Project | Link
@@ -14,7 +14,7 @@ PHP GiS Wrapper | [https://github.com/kjschubert/PHP-GIS-Wrapper](https://github
 Javascript Node GIS Wrapper | [https://github.com/AIESECGermany/node-gis-wrapper](https://github.com/AIESECGermany/node-gis-wrapper)
 EXPA Bookmarklets | [https://github.com/AIESECGermany/bookmarklets_share](https://github.com/AIESECGermany/bookmarklets_share)
 
-###[Resources you can use]
+### [Resources you can use]
 ----------
 
 Resource | Link
